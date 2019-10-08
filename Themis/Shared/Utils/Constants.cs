@@ -12,8 +12,6 @@ namespace Themis.Shared.Utils
 
         public const double DeltaTime = 1 / 30.0;
 
-
-//        public const string ServerAddress = "3.8.157.26";
         public const string ServerAddress = "127.0.0.1";
 
         public static readonly Vector3 BallStartPos      = new Vector3(0, -3, 0);
