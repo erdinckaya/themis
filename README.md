@@ -1,9 +1,9 @@
-`Themis` is designed as an basic example of authoritative server which is UDP and RUDP server.
+`Themis` is designed as a basic example of authoritative server which benefits from UDP and RUDP server.
 It uses [`Yojimbo.Net`](https://github.com/erdinckaya/yojimbo.net) for networking which is very fast and 
 lightweight networking library for dedicated servers.
 
 ## DEPENDENCIES
-* For testing your server you need an client which is [Prometheus](https://github.com/erdinckaya/prometheus)
+* For testing your server, you need a client which is [Prometheus](https://github.com/erdinckaya/prometheus)
 
 ## USAGE
 
